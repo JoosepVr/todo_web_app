@@ -1,0 +1,4 @@
+kapsasjoonkapsasjuur
+add1
+>>>>>>> origin/master
+New list
